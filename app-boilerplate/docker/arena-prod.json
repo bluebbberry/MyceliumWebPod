@@ -1,0 +1,39 @@
+{
+  "queues": [
+    {
+      "name": "remotePost",
+      "hostId": "app",
+      "host": "redis",
+      "port": 6379,
+      "db": 8
+    },
+    {
+      "name": "processOutbox",
+      "hostId": "app",
+      "host": "redis",
+      "port": 6379,
+      "db": 8
+    },
+    {
+      "name": "processInbox",
+      "hostId": "app",
+      "host": "redis",
+      "port": 6379,
+      "db": 8
+    },
+    {
+      "name": "registerListener",
+      "hostId": "app",
+      "host": "redis",
+      "port": 6379,
+      "db": 8
+    },
+    {
+      "name": "timeout",
+      "hostId": "app",
+      "host": "redis",
+      "port": 6379,
+      "db": 8
+    }
+  ]
+}

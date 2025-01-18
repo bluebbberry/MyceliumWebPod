@@ -31,3 +31,4 @@ yalc.lock
 
 .env.local
 .env.*.local
+.env

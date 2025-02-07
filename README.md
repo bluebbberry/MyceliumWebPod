@@ -3,6 +3,10 @@
 ## Improvements over Mycelium Web Server 1
 
 - now integrated in ActivityPods
+- trains general language model (planned)
+- gives users tasks for research knowledge
+- implements decentralized federated learning based on ActivityPub protocol
+- using the UI, users can browse all AI models connected over the mycelial protocol
 
 ## Main criteria of a mycelium web server:
 

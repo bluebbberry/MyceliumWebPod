@@ -16,7 +16,7 @@
 
 ## Implemented in MyceliumWebServer2
 
-1. Federated learning: nodes write in shared knowledge base. Link to knowledge graph is shared over Fediverse hashtags.
+1. Federated learning: train rudimentary neural net that can recommend songs. The nodes write in shared knowledge base. Link to knowledge graph is shared over Fediverse hashtags.
 2. Mycelium-Net protocol: calculate fitness based on user feedback from Fediverse; based on this change learning group and randomly mutate behaviour.
 3. Social Web-Integration: using .env-file, the server can communicate over a Mastodon account.
 4. Semantic Web-Integration: use shared Apache Jena Fuseki server

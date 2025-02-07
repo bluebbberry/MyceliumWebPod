@@ -20,4 +20,4 @@
 2. Mycelium-Net protocol: calculate fitness based on user feedback from Fediverse; based on this change learning group and randomly mutate behaviour.
 3. Social Web-Integration: using .env-file, the server can communicate over a Mastodon account.
 4. Semantic Web-Integration: use shared Apache Jena Fuseki server
-5. User-Fungus-Symbioses-Policy: not implemented yet. It is planned that users can enter a researcher-mode, in which the fungus give users research tasks based on their selected research topics, for knowledge, which currently does not exist in the knowledge base
+5. User-Fungus-Symbioses-Policy: users can insert knowledge on a voluntary basis. It is planned that users can enter a researcher-mode, in which the fungus give users research tasks based on their selected research topics, for knowledge, which currently does not exist in the knowledge base

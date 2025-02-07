@@ -25,3 +25,4 @@
 - gives users tasks for research knowledge (planned)
 - implements decentralized federated learning based on ActivityPub protocol (planned)
 - using the UI, users can browse all AI models connected over the mycelial protocol (planned)
+- actually implement mycelial "SPORE" protocol based on evoluationary algorithms (planned)

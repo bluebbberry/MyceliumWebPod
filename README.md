@@ -13,3 +13,11 @@
 3.	Social Web-Integration: Integrated in ActivityPub (for feedback; users can also contribute knowledge and make requests)
 4.	Semantic Web-Integration: AI has access to knowledge graph (both for data retrieval, model saving and collaboration for protocol, e.g. sharing of information.
 5.	User-Fungus-Symbiosis-Policy: There is a policy in place that ensures a symbiosis between humans and fungi, which ensures the growth of both living forms and ensures the overall well being of both the web and humanity as a whole (with the latter prioritized of course). This can be ensured for example by prompting users to contribute knowledge if there are stubs in the knowledge base.
+
+## Implemented in MyceliumWebServer2
+
+1. Federated learning: nodes write in shared knowledge base. Link to knowledge graph is shared over Fediverse hashtags.
+2. Mycelium-Net protocol: calculate fitness based on user feedback from Fediverse; based on this change learning group and randomly mutate behaviour.
+3. Social Web-Integration: using .env-file, the server can communicate over a Mastodon account.
+4. Semantic Web-Integration: use shared Apache Jena Fuseki server
+5. User-Fungus-Symbioses-Policy: not implemented yet. It is planned that users can enter a researcher-mode, in which the fungus give users research tasks based on their selected research topics

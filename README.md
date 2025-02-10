@@ -1,4 +1,6 @@
-# MyceliumWeb Server 2
+![icons8-mushroom-64](https://github.com/user-attachments/assets/f1df9eb3-0504-43fa-86ba-6f3f9529d59c)
+
+# MyceliumWeb Server Pod
 
 ## Main criteria of a mycelium web server:
 
